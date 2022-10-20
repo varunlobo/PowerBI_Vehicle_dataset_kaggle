@@ -1,4 +1,4 @@
-# Kaggle Vehicle dataset
+# PowerBI Kaggle Vehicle dataset
 
 The dataset was optained from kaggle for learning and exploring PowerBI as an essential visualization tool. The purpose of this project was to effectively identify relationships between horsepower, vehicle mileage and price of the vehicle and to visualize the data to draw meaningful conclusions. 
 
